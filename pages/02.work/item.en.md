@@ -2,8 +2,9 @@
 title: Work
 ---
 
-Selection of successfully realised projects.
+Current focus is headless cms architectures and scalable service providers.
 
+Selection of successfully implemented projects:
 
 ## websites
 * [www.smh-gemeinden.de](https://www.smh-gemeinden.de)
