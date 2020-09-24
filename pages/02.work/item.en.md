@@ -7,6 +7,7 @@ My current focus are headless content management systems and scalable software a
 Selection of successfully implemented projects:
 
 ## websites
+* [www.100jahrefriedensstadt.de](https://www.100jahrefriedensstadt.de)
 * [www.smh-gemeinden.de](https://www.smh-gemeinden.de)
 * [www.franzstein.de](https://www.franzstein.de)
 * [www.christinahertel.de](https://www.christinahertel.de)
