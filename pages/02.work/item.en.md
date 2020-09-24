@@ -2,7 +2,7 @@
 title: Work
 ---
 
-Current focus is headless cms architectures and scalable service providers.
+My current focus are headless content management systems and scalable software architectures.
 
 Selection of successfully implemented projects:
 
