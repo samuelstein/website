@@ -4,4 +4,4 @@ body_classes: 'title-center title-h1h2'
 visible: false
 ---
 
-I'm a skilled java developer with experience in coding, teamworking and love for new technologies.
+I'm a experienced java developer, team worker and always interested in new technologies. 
