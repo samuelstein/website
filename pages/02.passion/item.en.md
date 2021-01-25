@@ -2,7 +2,8 @@
 title: Passion
 ---
 
-My current focus are headless content management systems and scalable software architectures.
+I love to work and to relax. In my spare time i go climbing and surfing.   
+My current work focus are headless content management systems and scalable software architectures.
 
 Selection of successfully implemented projects:
 
