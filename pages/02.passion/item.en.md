@@ -3,7 +3,8 @@ title: Passion
 ---
 
 I love to work and to relax. In my spare time i go climbing and surfing.   
-My current work focus are headless content management systems and scalable software architectures.
+My current work focus are headless content management systems and scalable software architectures.   
+More projects can be found on my [github profile](https://github.com/samuelstein) and [gists](https://gist.github.com/samuelstein).
 
 Selection of successfully implemented projects:
 
