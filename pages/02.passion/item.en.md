@@ -1,5 +1,5 @@
 ---
-title: Work
+title: Passion
 ---
 
 My current focus are headless content management systems and scalable software architectures.
